@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #00FF00;
+    background-color: ##ff2f00;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 
 section {
     border: 1px solid black;
-    background-color: #007FFF;
+    background-color: #bfff00;
     margin: 10px;
 }
 
@@ -37,11 +37,10 @@ section.rcol>h2 {
 }
 
 section.gcol>h2 {
-    background-color: ##90ee90;
+    background-color: #90ee90;
 }
 
 section.bcol>h2 {
-    color: #e2e2e2;
     background-color: #add8e6;
 }
 
