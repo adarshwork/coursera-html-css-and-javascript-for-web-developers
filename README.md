@@ -7,3 +7,5 @@ Assignments:<br>
 <a href="https://adarshwork.github.io/coursera-html-css-and-javascript-for-web-developers/module3-solution/">Module 3</a>
 <br>
 <a href="https://adarshwork.github.io/coursera-html-css-and-javascript-for-web-developers/module4-solution/">Module 4</a>
+<br>
+<a href="https://adarshwork.github.io/coursera-html-css-and-javascript-for-web-developers/module5-solution/">Module 5</a>
